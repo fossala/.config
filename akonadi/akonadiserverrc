@@ -1,0 +1,9 @@
+[QMYSQL]
+Name=akonadi
+Host=
+Options="UNIX_SOCKET=/home/fossala/.local/share/akonadi/db_misc/mysql.socket"
+ServerPath=/usr/sbin/mysqld
+StartServer=true
+
+[Debug]
+Tracer=null
